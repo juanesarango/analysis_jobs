@@ -1,0 +1,56 @@
+tail: cannot open `stats_4_head.txt' for reading: No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/96/82/59682/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/72/91/67291/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/79/97/67997/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/21/16/72116/output': No such file or directory
+Analysis 4955-CNVKIT failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/49/55/4955/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/49/55/4955/output/head_job.log'
+Analysis 4956-CNVKIT failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/49/56/4956/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/49/56/4956/output/head_job.log'
+Analysis 9367-CNVKIT failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/93/67/9367/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/93/67/9367/output/head_job.log'
+Analysis 9368-CNVKIT failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/93/68/9368/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/93/68/9368/output/head_job.log'
+Analysis 10053-CNVKIT failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/00/53/10053/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/00/53/10053/output/head_job.log'
+Analysis 10054-CNVKIT failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/00/54/10054/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/00/54/10054/output/head_job.log'
+Analysis 10057-CNVKIT failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/00/57/10057/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/00/57/10057/output/head_job.log'
+Analysis 55017-CNVKIT failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/50/17/55017/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/50/17/55017/output/head_job.log'
+Analysis 59682-CNVKIT failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/96/82/59682/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/96/82/59682/output']' returned non-zero exit status 1.
+Analysis 67291-CNVKIT failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/72/91/67291/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/72/91/67291/output']' returned non-zero exit status 1.
+Analysis 67997-CNVKIT failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/79/97/67997/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/79/97/67997/output']' returned non-zero exit status 1.
+Analysis 68570-CNVKIT failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/85/70/68570/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/85/70/68570/output/head_job.log'
+Analysis 68575-CNVKIT failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/85/75/68575/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/85/75/68575/output/head_job.log'
+Analysis 68622-CNVKIT failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/86/22/68622/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/86/22/68622/output/head_job.log'
+Analysis 68629-CNVKIT failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/86/29/68629/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/86/29/68629/output/head_job.log'
+Analysis 72115-CNVKIT failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/21/15/72115/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/21/15/72115/output/head_job.log'
+Analysis 72116-CNVKIT failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/21/16/72116/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/21/16/72116/output']' returned non-zero exit status 1.
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@s13>
+Subject: Job 17703740: <python job_head_collection.py 4> in cluster <solar> Done
+
+Job <python job_head_collection.py 4> was submitted from host <selene> by user <arangooj> in cluster <solar>.
+Job was executed on host(s) <8*s13>, in queue <sol>, as user <arangooj> in cluster <solar>.
+</home/arangooj> was used as the home directory.
+</ifs/work/leukgen/home/arangooj/repos/analysis_metrics> was used as the working directory.
+Started at Mon Mar  5 12:48:02 2018
+Results reported on Mon Mar  5 13:27:32 2018
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python job_head_collection.py 4
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   306.18 sec.
+    Total Requested Memory :                     256.00 GB
+    Delta Memory :                               -
+    Max Swap :                                   1 GB
+    Max Processes :                              4
+    Max Threads :                                5
+    Run time :                                   2370 sec.
+    Turnaround time :                            2401 sec.
+
+The output (if any) is above this job summary.
+

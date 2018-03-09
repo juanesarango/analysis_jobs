@@ -1,0 +1,34 @@
+tail: cannot open `stats_13_head.txt' for reading: No such file or directory
+Analysis 11474-PTD failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/14/74/11474/output/head_job.log. Error: list index out of range
+Analysis 11476-PTD failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/14/76/11476/output/head_job.log. Error: list index out of range
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@s05>
+Subject: Job 17703748: <python job_head_collection.py 13> in cluster <solar> Done
+
+Job <python job_head_collection.py 13> was submitted from host <selene> by user <arangooj> in cluster <solar>.
+Job was executed on host(s) <8*s05>, in queue <sol>, as user <arangooj> in cluster <solar>.
+</home/arangooj> was used as the home directory.
+</ifs/work/leukgen/home/arangooj/repos/analysis_metrics> was used as the working directory.
+Started at Mon Mar  5 12:49:23 2018
+Results reported on Mon Mar  5 12:49:26 2018
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python job_head_collection.py 13
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   2.03 sec.
+    Total Requested Memory :                     256.00 GB
+    Delta Memory :                               -
+    Run time :                                   3 sec.
+    Turnaround time :                            114 sec.
+
+The output (if any) is above this job summary.
+

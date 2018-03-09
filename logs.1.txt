@@ -1,0 +1,32 @@
+Job # is running
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@u23>
+Subject: Job 17723296[1]: <align[1-4]> in cluster <solar> Done
+
+Job <align[1-4]> was submitted from host <selene> by user <arangooj> in cluster <solar>.
+Job was executed on host(s) <u23>, in queue <sol>, as user <arangooj> in cluster <solar>.
+</home/arangooj> was used as the home directory.
+</ifs/work/leukgen/home/arangooj/repos/analysis_metrics> was used as the working directory.
+Started at Mon Mar  5 18:08:11 2018
+Results reported on Mon Mar  5 18:08:13 2018
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+echo 'Job # is running'
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   0.03 sec.
+    Total Requested Memory :                     8.00 GB
+    Delta Memory :                               -
+    Run time :                                   2 sec.
+    Turnaround time :                            10 sec.
+
+The output (if any) is above this job summary.
+

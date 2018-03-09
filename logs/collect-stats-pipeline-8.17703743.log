@@ -1,0 +1,56 @@
+tail: cannot open `stats_8_head.txt' for reading: No such file or directory
+Analysis 9102-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/91/02/9102/output/head_job.log. Error: list index out of range
+Analysis 9132-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/91/32/9132/output/head_job.log. Error: list index out of range
+Analysis 9133-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/91/33/9133/output/head_job.log. Error: list index out of range
+Analysis 9430-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/94/30/9430/output/head_job.log. Error: list index out of range
+Analysis 9440-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/94/40/9440/output/head_job.log. Error: list index out of range
+Analysis 9529-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/95/29/9529/output/head_job.log. Error: list index out of range
+Analysis 9530-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/95/30/9530/output/head_job.log. Error: list index out of range
+Analysis 9652-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/96/52/9652/output/head_job.log. Error: list index out of range
+Analysis 9653-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/96/53/9653/output/head_job.log. Error: list index out of range
+Analysis 9654-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/96/54/9654/output/head_job.log. Error: list index out of range
+Analysis 9655-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/96/55/9655/output/head_job.log. Error: list index out of range
+Analysis 9656-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/96/56/9656/output/head_job.log. Error: list index out of range
+Analysis 9657-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/96/57/9657/output/head_job.log. Error: list index out of range
+Analysis 9736-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/97/36/9736/output/head_job.log. Error: list index out of range
+Analysis 9737-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/97/37/9737/output/head_job.log. Error: list index out of range
+Analysis 9890-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/98/90/9890/output/head_job.log. Error: list index out of range
+Analysis 9891-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/98/91/9891/output/head_job.log. Error: list index out of range
+Analysis 9953-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/99/53/9953/output/head_job.log. Error: list index out of range
+Analysis 9954-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/99/54/9954/output/head_job.log. Error: list index out of range
+Analysis 9955-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/99/55/9955/output/head_job.log. Error: list index out of range
+Analysis 10844-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/08/44/10844/output/head_job.log. Error: list index out of range
+Analysis 10845-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/08/45/10845/output/head_job.log. Error: list index out of range
+Analysis 10846-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/08/46/10846/output/head_job.log. Error: list index out of range
+Analysis 10847-MERGE_TABLES failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/08/47/10847/output/head_job.log. Error: list index out of range
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@s24>
+Subject: Job 17703743: <python job_head_collection.py 8> in cluster <solar> Done
+
+Job <python job_head_collection.py 8> was submitted from host <selene> by user <arangooj> in cluster <solar>.
+Job was executed on host(s) <8*s24>, in queue <sol>, as user <arangooj> in cluster <solar>.
+</home/arangooj> was used as the home directory.
+</ifs/work/leukgen/home/arangooj/repos/analysis_metrics> was used as the working directory.
+Started at Mon Mar  5 12:48:02 2018
+Results reported on Mon Mar  5 12:48:05 2018
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python job_head_collection.py 8
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   1.92 sec.
+    Total Requested Memory :                     256.00 GB
+    Delta Memory :                               -
+    Run time :                                   3 sec.
+    Turnaround time :                            34 sec.
+
+The output (if any) is above this job summary.
+

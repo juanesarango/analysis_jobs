@@ -1,0 +1,37 @@
+tail: cannot open `stats_16_head.txt' for reading: No such file or directory
+du: cannot read directory `/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/29/68029/output/STAR-Fusion/_STARtmp': Permission denied
+du: cannot read directory `/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/29/68029/output/STAR-Fusion/_STARgenome': Permission denied
+du: cannot read directory `/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/29/68029/output/STAR-Fusion/_STARpass1': Permission denied
+Analysis 67978-RNAFUSIONS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/79/78/67978/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/79/78/67978/output/head_job.log'
+Analysis 68029-RNAFUSIONS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/29/68029/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/29/68029/output']' returned non-zero exit status 1.
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@s10>
+Subject: Job 17703751: <python job_head_collection.py 16> in cluster <solar> Done
+
+Job <python job_head_collection.py 16> was submitted from host <selene> by user <arangooj> in cluster <solar>.
+Job was executed on host(s) <8*s10>, in queue <sol>, as user <arangooj> in cluster <solar>.
+</home/arangooj> was used as the home directory.
+</ifs/work/leukgen/home/arangooj/repos/analysis_metrics> was used as the working directory.
+Started at Mon Mar  5 12:50:51 2018
+Results reported on Mon Mar  5 12:51:16 2018
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python job_head_collection.py 16
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   4.95 sec.
+    Total Requested Memory :                     256.00 GB
+    Delta Memory :                               -
+    Run time :                                   25 sec.
+    Turnaround time :                            223 sec.
+
+The output (if any) is above this job summary.
+

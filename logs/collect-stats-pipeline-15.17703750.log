@@ -1,0 +1,125 @@
+tail: cannot open `stats_15_head.txt' for reading: No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/42/12/24212/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/07/89/50789/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/07/93/50793/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/42/42/54242/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/42/43/54243/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/42/44/54244/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/42/45/54245/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/42/46/54246/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/42/47/54247/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/47/32/54732/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/10/82/71082/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/10/83/71083/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/10/92/71092/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/10/99/71099/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/00/71100/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/55/71155/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/64/71164/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/66/71166/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/70/71170/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/71/71171/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/72/71172/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/76/71176/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/77/71177/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/78/71178/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/83/71183/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/84/71184/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/85/71185/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/90/71190/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/96/71196/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/12/01/71201/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/12/03/71203/output': No such file or directory
+Analysis 24212-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/42/12/24212/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/42/12/24212/output']' returned non-zero exit status 1.
+Analysis 38032-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/32/38032/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/32/38032/output/head_job.log'
+Analysis 38033-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/33/38033/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/33/38033/output/head_job.log'
+Analysis 38034-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/34/38034/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/34/38034/output/head_job.log'
+Analysis 38035-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/35/38035/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/35/38035/output/head_job.log'
+Analysis 38036-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/36/38036/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/36/38036/output/head_job.log'
+Analysis 38037-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/37/38037/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/37/38037/output/head_job.log'
+Analysis 38038-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/38/38038/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/38/38038/output/head_job.log'
+Analysis 38039-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/39/38039/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/39/38039/output/head_job.log'
+Analysis 38040-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/40/38040/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/40/38040/output/head_job.log'
+Analysis 38041-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/41/38041/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/41/38041/output/head_job.log'
+Analysis 38042-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/42/38042/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/42/38042/output/head_job.log'
+Analysis 38043-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/43/38043/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/43/38043/output/head_job.log'
+Analysis 38044-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/44/38044/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/44/38044/output/head_job.log'
+Analysis 38045-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/45/38045/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/45/38045/output/head_job.log'
+Analysis 38046-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/46/38046/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/46/38046/output/head_job.log'
+Analysis 38047-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/47/38047/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/47/38047/output/head_job.log'
+Analysis 38048-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/48/38048/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/48/38048/output/head_job.log'
+Analysis 38049-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/49/38049/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/49/38049/output/head_job.log'
+Analysis 38050-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/50/38050/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/50/38050/output/head_job.log'
+Analysis 38051-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/51/38051/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/51/38051/output/head_job.log'
+Analysis 38052-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/52/38052/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/52/38052/output/head_job.log'
+Analysis 38053-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/53/38053/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/53/38053/output/head_job.log'
+Analysis 38054-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/54/38054/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/54/38054/output/head_job.log'
+Analysis 38055-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/55/38055/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/55/38055/output/head_job.log'
+Analysis 38056-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/56/38056/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/56/38056/output/head_job.log'
+Analysis 38057-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/57/38057/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/57/38057/output/head_job.log'
+Analysis 38058-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/58/38058/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/58/38058/output/head_job.log'
+Analysis 38059-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/80/59/38059/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/80/59/38059/output/head_job.log'
+Analysis 50789-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/07/89/50789/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/07/89/50789/output']' returned non-zero exit status 1.
+Analysis 50793-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/07/93/50793/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/07/93/50793/output']' returned non-zero exit status 1.
+Analysis 54242-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/42/42/54242/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/42/42/54242/output']' returned non-zero exit status 1.
+Analysis 54243-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/42/43/54243/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/42/43/54243/output']' returned non-zero exit status 1.
+Analysis 54244-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/42/44/54244/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/42/44/54244/output']' returned non-zero exit status 1.
+Analysis 54245-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/42/45/54245/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/42/45/54245/output']' returned non-zero exit status 1.
+Analysis 54246-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/42/46/54246/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/42/46/54246/output']' returned non-zero exit status 1.
+Analysis 54247-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/42/47/54247/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/42/47/54247/output']' returned non-zero exit status 1.
+Analysis 54732-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/47/32/54732/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/47/32/54732/output']' returned non-zero exit status 1.
+Analysis 71082-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/10/82/71082/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/10/82/71082/output']' returned non-zero exit status 1.
+Analysis 71083-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/10/83/71083/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/10/83/71083/output']' returned non-zero exit status 1.
+Analysis 71092-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/10/92/71092/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/10/92/71092/output']' returned non-zero exit status 1.
+Analysis 71099-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/10/99/71099/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/10/99/71099/output']' returned non-zero exit status 1.
+Analysis 71100-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/11/00/71100/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/00/71100/output']' returned non-zero exit status 1.
+Analysis 71155-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/11/55/71155/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/55/71155/output']' returned non-zero exit status 1.
+Analysis 71164-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/11/64/71164/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/64/71164/output']' returned non-zero exit status 1.
+Analysis 71166-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/11/66/71166/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/66/71166/output']' returned non-zero exit status 1.
+Analysis 71170-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/11/70/71170/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/70/71170/output']' returned non-zero exit status 1.
+Analysis 71171-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/11/71/71171/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/71/71171/output']' returned non-zero exit status 1.
+Analysis 71172-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/11/72/71172/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/72/71172/output']' returned non-zero exit status 1.
+Analysis 71176-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/11/76/71176/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/76/71176/output']' returned non-zero exit status 1.
+Analysis 71177-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/11/77/71177/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/77/71177/output']' returned non-zero exit status 1.
+Analysis 71178-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/11/78/71178/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/78/71178/output']' returned non-zero exit status 1.
+Analysis 71183-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/11/83/71183/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/83/71183/output']' returned non-zero exit status 1.
+Analysis 71184-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/11/84/71184/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/84/71184/output']' returned non-zero exit status 1.
+Analysis 71185-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/11/85/71185/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/85/71185/output']' returned non-zero exit status 1.
+Analysis 71190-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/11/90/71190/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/90/71190/output']' returned non-zero exit status 1.
+Analysis 71196-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/11/96/71196/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/96/71196/output']' returned non-zero exit status 1.
+Analysis 71201-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/12/01/71201/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/12/01/71201/output']' returned non-zero exit status 1.
+Analysis 71203-FACETS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/12/03/71203/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/12/03/71203/output']' returned non-zero exit status 1.
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@s05>
+Subject: Job 17703750: <python job_head_collection.py 15> in cluster <solar> Done
+
+Job <python job_head_collection.py 15> was submitted from host <selene> by user <arangooj> in cluster <solar>.
+Job was executed on host(s) <8*s05>, in queue <sol>, as user <arangooj> in cluster <solar>.
+</home/arangooj> was used as the home directory.
+</ifs/work/leukgen/home/arangooj/repos/analysis_metrics> was used as the working directory.
+Started at Mon Mar  5 12:50:21 2018
+Results reported on Mon Mar  5 12:52:28 2018
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python job_head_collection.py 15
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   14.73 sec.
+    Total Requested Memory :                     256.00 GB
+    Delta Memory :                               -
+    Max Swap :                                   1 GB
+    Max Processes :                              3
+    Max Threads :                                4
+    Run time :                                   127 sec.
+    Turnaround time :                            296 sec.
+
+The output (if any) is above this job summary.
+

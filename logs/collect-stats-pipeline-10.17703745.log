@@ -1,0 +1,35 @@
+tail: cannot open `stats_10_head.txt' for reading: No such file or directory
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@s05>
+Subject: Job 17703745: <python job_head_collection.py 10> in cluster <solar> Done
+
+Job <python job_head_collection.py 10> was submitted from host <selene> by user <arangooj> in cluster <solar>.
+Job was executed on host(s) <8*s05>, in queue <sol>, as user <arangooj> in cluster <solar>.
+</home/arangooj> was used as the home directory.
+</ifs/work/leukgen/home/arangooj/repos/analysis_metrics> was used as the working directory.
+Started at Mon Mar  5 12:48:02 2018
+Results reported on Mon Mar  5 12:48:47 2018
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python job_head_collection.py 10
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   5.87 sec.
+    Total Requested Memory :                     256.00 GB
+    Delta Memory :                               -
+    Max Swap :                                   1 GB
+    Max Processes :                              3
+    Max Threads :                                4
+    Run time :                                   45 sec.
+    Turnaround time :                            75 sec.
+
+The output (if any) is above this job summary.
+

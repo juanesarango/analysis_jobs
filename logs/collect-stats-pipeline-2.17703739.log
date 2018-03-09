@@ -1,0 +1,138 @@
+tail: cannot open `stats_2_head.txt' for reading: No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/01/14/10114/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/01/15/10115/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/27/45/42745/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/21/68/52168/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/21/70/52170/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/57/67057/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/58/67058/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/59/67059/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/60/67060/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/61/67061/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/62/67062/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/63/67063/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/64/67064/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/65/67065/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/66/67066/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/67/67067/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/68/67068/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/69/67069/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/70/67070/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/71/67071/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/72/67072/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/73/67073/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/74/67074/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/75/67075/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/76/67076/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/77/67077/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/78/67078/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/79/67079/output': No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/80/67080/output': No such file or directory
+Analysis 1923-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/19/23/1923/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/19/23/1923/output/head_job.log'
+Analysis 1924-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/19/24/1924/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/19/24/1924/output/head_job.log'
+Analysis 1925-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/19/25/1925/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/19/25/1925/output/head_job.log'
+Analysis 1926-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/19/26/1926/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/19/26/1926/output/head_job.log'
+Analysis 1927-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/19/27/1927/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/19/27/1927/output/head_job.log'
+Analysis 1928-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/19/28/1928/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/19/28/1928/output/head_job.log'
+Analysis 1929-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/19/29/1929/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/19/29/1929/output/head_job.log'
+Analysis 1930-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/19/30/1930/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/19/30/1930/output/head_job.log'
+Analysis 1931-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/19/31/1931/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/19/31/1931/output/head_job.log'
+Analysis 1932-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/19/32/1932/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/19/32/1932/output/head_job.log'
+Analysis 2636-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/26/36/2636/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/26/36/2636/output/head_job.log'
+Analysis 2637-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/26/37/2637/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/26/37/2637/output/head_job.log'
+Analysis 2638-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/26/38/2638/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/26/38/2638/output/head_job.log'
+Analysis 2983-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/29/83/2983/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/29/83/2983/output/head_job.log'
+Analysis 3036-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/30/36/3036/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/30/36/3036/output/head_job.log'
+Analysis 3978-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/39/78/3978/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/39/78/3978/output/head_job.log'
+Analysis 3979-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/39/79/3979/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/39/79/3979/output/head_job.log'
+Analysis 3980-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/39/80/3980/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/39/80/3980/output/head_job.log'
+Analysis 3982-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/39/82/3982/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/39/82/3982/output/head_job.log'
+Analysis 3983-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/39/83/3983/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/39/83/3983/output/head_job.log'
+Analysis 3984-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/39/84/3984/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/39/84/3984/output/head_job.log'
+Analysis 3989-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/39/89/3989/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/39/89/3989/output/head_job.log'
+Analysis 3992-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/39/92/3992/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/39/92/3992/output/head_job.log'
+Analysis 9365-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/93/65/9365/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/93/65/9365/output/head_job.log'
+Analysis 9366-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/93/66/9366/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/93/66/9366/output/head_job.log'
+Analysis 9447-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/94/47/9447/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/94/47/9447/output/head_job.log'
+Analysis 9448-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/94/48/9448/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/94/48/9448/output/head_job.log'
+Analysis 9449-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/94/49/9449/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/94/49/9449/output/head_job.log'
+Analysis 9960-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/99/60/9960/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/99/60/9960/output/head_job.log'
+Analysis 9970-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/99/70/9970/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/99/70/9970/output/head_job.log'
+Analysis 9971-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/99/71/9971/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/99/71/9971/output/head_job.log'
+Analysis 9972-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/99/72/9972/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/99/72/9972/output/head_job.log'
+Analysis 9973-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/99/73/9973/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/99/73/9973/output/head_job.log'
+Analysis 10114-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/01/14/10114/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/01/14/10114/output']' returned non-zero exit status 1.
+Analysis 10115-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/01/15/10115/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/01/15/10115/output']' returned non-zero exit status 1.
+Analysis 31366-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/13/66/31366/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/13/66/31366/output/head_job.log'
+Analysis 31983-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/19/83/31983/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/19/83/31983/output/head_job.log'
+Analysis 37885-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/78/85/37885/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/78/85/37885/output/head_job.log'
+Analysis 37926-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/79/26/37926/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/79/26/37926/output/head_job.log'
+Analysis 38103-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/81/03/38103/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/81/03/38103/output/head_job.log'
+Analysis 38104-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/81/04/38104/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/81/04/38104/output/head_job.log'
+Analysis 38222-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/82/22/38222/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/82/22/38222/output/head_job.log'
+Analysis 38251-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/82/51/38251/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/82/51/38251/output/head_job.log'
+Analysis 38253-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/82/53/38253/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/82/53/38253/output/head_job.log'
+Analysis 38254-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/82/54/38254/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/82/54/38254/output/head_job.log'
+Analysis 38255-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/82/55/38255/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/82/55/38255/output/head_job.log'
+Analysis 41177-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/11/77/41177/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/11/77/41177/output/head_job.log'
+Analysis 42745-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/27/45/42745/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/27/45/42745/output']' returned non-zero exit status 1.
+Analysis 52168-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/21/68/52168/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/21/68/52168/output']' returned non-zero exit status 1.
+Analysis 52170-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/21/70/52170/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/21/70/52170/output']' returned non-zero exit status 1.
+Analysis 67057-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/57/67057/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/57/67057/output']' returned non-zero exit status 1.
+Analysis 67058-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/58/67058/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/58/67058/output']' returned non-zero exit status 1.
+Analysis 67059-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/59/67059/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/59/67059/output']' returned non-zero exit status 1.
+Analysis 67060-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/60/67060/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/60/67060/output']' returned non-zero exit status 1.
+Analysis 67061-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/61/67061/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/61/67061/output']' returned non-zero exit status 1.
+Analysis 67062-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/62/67062/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/62/67062/output']' returned non-zero exit status 1.
+Analysis 67063-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/63/67063/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/63/67063/output']' returned non-zero exit status 1.
+Analysis 67064-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/64/67064/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/64/67064/output']' returned non-zero exit status 1.
+Analysis 67065-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/65/67065/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/65/67065/output']' returned non-zero exit status 1.
+Analysis 67066-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/66/67066/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/66/67066/output']' returned non-zero exit status 1.
+Analysis 67067-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/67/67067/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/67/67067/output']' returned non-zero exit status 1.
+Analysis 67068-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/68/67068/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/68/67068/output']' returned non-zero exit status 1.
+Analysis 67069-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/69/67069/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/69/67069/output']' returned non-zero exit status 1.
+Analysis 67070-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/70/67070/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/70/67070/output']' returned non-zero exit status 1.
+Analysis 67071-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/71/67071/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/71/67071/output']' returned non-zero exit status 1.
+Analysis 67072-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/72/67072/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/72/67072/output']' returned non-zero exit status 1.
+Analysis 67073-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/73/67073/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/73/67073/output']' returned non-zero exit status 1.
+Analysis 67074-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/74/67074/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/74/67074/output']' returned non-zero exit status 1.
+Analysis 67075-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/75/67075/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/75/67075/output']' returned non-zero exit status 1.
+Analysis 67076-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/76/67076/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/76/67076/output']' returned non-zero exit status 1.
+Analysis 67077-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/77/67077/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/77/67077/output']' returned non-zero exit status 1.
+Analysis 67078-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/78/67078/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/78/67078/output']' returned non-zero exit status 1.
+Analysis 67079-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/79/67079/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/79/67079/output']' returned non-zero exit status 1.
+Analysis 67080-BRASS failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/70/80/67080/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/70/80/67080/output']' returned non-zero exit status 1.
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@s06>
+Subject: Job 17703739: <python job_head_collection.py 2> in cluster <solar> Done
+
+Job <python job_head_collection.py 2> was submitted from host <selene> by user <arangooj> in cluster <solar>.
+Job was executed on host(s) <8*s06>, in queue <sol>, as user <arangooj> in cluster <solar>.
+</home/arangooj> was used as the home directory.
+</ifs/work/leukgen/home/arangooj/repos/analysis_metrics> was used as the working directory.
+Started at Mon Mar  5 12:48:02 2018
+Results reported on Mon Mar  5 12:49:35 2018
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python job_head_collection.py 2
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   14.02 sec.
+    Total Requested Memory :                     256.00 GB
+    Delta Memory :                               -
+    Max Swap :                                   1 GB
+    Max Processes :                              3
+    Max Threads :                                4
+    Run time :                                   93 sec.
+    Turnaround time :                            124 sec.
+
+The output (if any) is above this job summary.
+

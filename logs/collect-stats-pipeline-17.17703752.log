@@ -1,0 +1,35 @@
+tail: cannot open `stats_17_head.txt' for reading: No such file or directory
+du: cannot access `/ifs/res/leukgen/local/opt/leukdc/data/analyses/99/12/69912/output': No such file or directory
+Analysis 69912-CONPAIR failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/99/12/69912/output/head_job.log. Error: Command '['du', '-s', '/ifs/res/leukgen/local/opt/leukdc/data/analyses/99/12/69912/output']' returned non-zero exit status 1.
+Analysis 69913-CONPAIR failed. Logs: /ifs/res/leukgen/local/opt/leukdc/data/analyses/99/13/69913/output/head_job.log. Error: [Errno 2] No such file or directory: '/ifs/res/leukgen/local/opt/leukdc/data/analyses/99/13/69913/output/head_job.log'
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@s18>
+Subject: Job 17703752: <python job_head_collection.py 17> in cluster <solar> Done
+
+Job <python job_head_collection.py 17> was submitted from host <selene> by user <arangooj> in cluster <solar>.
+Job was executed on host(s) <8*s18>, in queue <sol>, as user <arangooj> in cluster <solar>.
+</home/arangooj> was used as the home directory.
+</ifs/work/leukgen/home/arangooj/repos/analysis_metrics> was used as the working directory.
+Started at Mon Mar  5 12:51:18 2018
+Results reported on Mon Mar  5 12:51:31 2018
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+python job_head_collection.py 17
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   3.62 sec.
+    Total Requested Memory :                     256.00 GB
+    Delta Memory :                               -
+    Run time :                                   13 sec.
+    Turnaround time :                            238 sec.
+
+The output (if any) is above this job summary.
+

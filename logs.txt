@@ -1,0 +1,128 @@
+Job # is running
+Job # is running
+Job # is running
+Job # is running
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@u31>
+Subject: Job 17723269[4]: <align[1-4]> in cluster <solar> Done
+
+Job <align[1-4]> was submitted from host <selene> by user <arangooj> in cluster <solar>.
+Job was executed on host(s) <u31>, in queue <sol>, as user <arangooj> in cluster <solar>.
+</home/arangooj> was used as the home directory.
+</ifs/work/leukgen/home/arangooj/repos/analysis_metrics> was used as the working directory.
+Started at Mon Mar  5 18:03:58 2018
+Results reported on Mon Mar  5 18:03:59 2018
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+echo 'Job # is running'
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   0.02 sec.
+    Total Requested Memory :                     8.00 GB
+    Delta Memory :                               -
+    Run time :                                   1 sec.
+    Turnaround time :                            0 sec.
+
+The output (if any) is above this job summary.
+
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@u31>
+Subject: Job 17723269[3]: <align[1-4]> in cluster <solar> Done
+
+Job <align[1-4]> was submitted from host <selene> by user <arangooj> in cluster <solar>.
+Job was executed on host(s) <u31>, in queue <sol>, as user <arangooj> in cluster <solar>.
+</home/arangooj> was used as the home directory.
+</ifs/work/leukgen/home/arangooj/repos/analysis_metrics> was used as the working directory.
+Started at Mon Mar  5 18:03:58 2018
+Results reported on Mon Mar  5 18:03:59 2018
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+echo 'Job # is running'
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   0.03 sec.
+    Total Requested Memory :                     8.00 GB
+    Delta Memory :                               -
+    Run time :                                   1 sec.
+    Turnaround time :                            0 sec.
+
+The output (if any) is above this job summary.
+
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@u31>
+Subject: Job 17723269[2]: <align[1-4]> in cluster <solar> Done
+
+Job <align[1-4]> was submitted from host <selene> by user <arangooj> in cluster <solar>.
+Job was executed on host(s) <u31>, in queue <sol>, as user <arangooj> in cluster <solar>.
+</home/arangooj> was used as the home directory.
+</ifs/work/leukgen/home/arangooj/repos/analysis_metrics> was used as the working directory.
+Started at Mon Mar  5 18:03:58 2018
+Results reported on Mon Mar  5 18:03:59 2018
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+echo 'Job # is running'
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   0.04 sec.
+    Total Requested Memory :                     8.00 GB
+    Delta Memory :                               -
+    Run time :                                   1 sec.
+    Turnaround time :                            0 sec.
+
+The output (if any) is above this job summary.
+
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@u31>
+Subject: Job 17723269[1]: <align[1-4]> in cluster <solar> Done
+
+Job <align[1-4]> was submitted from host <selene> by user <arangooj> in cluster <solar>.
+Job was executed on host(s) <u31>, in queue <sol>, as user <arangooj> in cluster <solar>.
+</home/arangooj> was used as the home directory.
+</ifs/work/leukgen/home/arangooj/repos/analysis_metrics> was used as the working directory.
+Started at Mon Mar  5 18:03:58 2018
+Results reported on Mon Mar  5 18:03:59 2018
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+echo 'Job # is running'
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   0.09 sec.
+    Total Requested Memory :                     8.00 GB
+    Delta Memory :                               -
+    Run time :                                   1 sec.
+    Turnaround time :                            0 sec.
+
+The output (if any) is above this job summary.
+
